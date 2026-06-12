@@ -31,13 +31,12 @@ autónomo.
 
 ## Hardware
 
-| Componente    | Descripción                                              |
-| MCU           | TI MSP430FR2355                                          |
-| Conectividad  | Módulo WiFi (UART)                                       |
-| Sensores      | LDR x2, ultrasonido, sensores de línea                   |
-| Control       | Joystick analógico                                       |
-| Visualización | Display (I2C)                                            |
-| PCB           | Diseño propio en KiCAD (2 capas), fabricada externamente |
+- **MCU:**TI MSP430FR2355
+- **Conectividad:**Módulo WiFi (UART)
+- **Sensores:** LDRs, ultrasonido, sensores de línea,
+- **Control:** Joystick analógico
+- **Visualización:**Display (I2C)
+- **PCB:**Diseño propio en KiCAD (2 capas), fabricada externamente
 
 
 ## Estructura del repositorio
