@@ -1,9 +1,0 @@
-"./ADC.obj"
-"./I2C.obj"
-"./clocks_timers.obj"
-"./delay.obj"
-"./joystick.obj"
-"./main.obj"
-"../lnk_msp430fr2355.cmd"
--lfrwp_init.a
--llibc.a
