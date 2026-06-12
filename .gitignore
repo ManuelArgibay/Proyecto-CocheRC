@@ -1,0 +1,6 @@
+.DS_Store
+Debug/
+.launches/
+.settings/
+targetConfigs/
+*.cmd
